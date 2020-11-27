@@ -1,7 +1,7 @@
 # Data Science for Engineering
 **Note:** <br>
 Selamat datang, silahkan akses notebook/code. Semua code disini yang bersifat open-source. <br>
-Apabila tertarik untuk menjadi kontributor, silahkan mention kami di IG:@camy.labotech
+Apabila tertarik untuk menjadi kontributor, silahkan mention kami di [IG @camy.labotech](https://www.instagram.com/camy.labotech/)
 
 ---
 # Konten
